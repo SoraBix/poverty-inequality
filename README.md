@@ -9,15 +9,13 @@ A comprehensive research focused on measuring and explaining trends in poverty, 
 
 ## Screenshots
 
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot/screenshot1.png)
 
-![Screenshot](screenshot2.png)
+![Screenshot](screenshot/screenshot2.png)
 
 ## Video Demo
 
-[![Video](http://img.youtube.com/vi/baLoDQTQZDU/0.jpg)](http://www.youtube.com/watch?v=baLoDQTQZDU)
-
-[![Video](http://img.youtube.com/vi/baLoDQTQZDU/0.jpg)](https://youtu.be/baLoDQTQZDU)
+[![Video](screenshot/screenshot3.png)](https://youtu.be/baLoDQTQZDU)
 
 ## Developers (Go Banana! Team)
 
