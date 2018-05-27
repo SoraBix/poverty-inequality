@@ -23,7 +23,7 @@ A comprehensive research focused on measuring and explaining trends in poverty, 
 * **Nestor Diaz** - Data Wrangling & Charts Design
 * **Wendi Ma** - Documentation
 
-## Data Souces
+## Data Sources
 
 * [UNdata](http://data.un.org) - Internet-based UN statistical data service
 * [World Bank](https://data.worldbank.org) - Global development open data
