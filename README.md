@@ -5,7 +5,7 @@ A comprehensive research focused on measuring and explaining trends in poverty, 
 ## Resources
 
 * [GoBanana.com](http://go_banana.sorabix.com/) - Research homepage
-* [Report.pdf](Report.pdf) - Documentation
+* [Analytical Report](Report.pdf) - Documentation
 
 ## Screenshots
 
