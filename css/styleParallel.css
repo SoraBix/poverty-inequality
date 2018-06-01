@@ -1,0 +1,81 @@
+
+#tparallel.parcoords {
+  display: block;
+}
+
+.parcoords svg,
+.parcoords canvas {
+  font: 10px sans-serif;
+  position: absolute;
+}
+
+.parcoords canvas {
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.axis .title {
+  font-size: 11px;
+  font-weight: bold;
+  transform: rotate(-21deg) translate(-5px,-6px);
+  fill: #222;
+}
+
+#tparallel.axis line,
+#tparallel.axis path {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1px;
+}
+
+#tparallel.axis #tparallel.tick text {
+  fill: #222;
+  opacity: 0;
+  pointer-events: none;
+}
+
+#tparallel.axis.manufac_name #tparallel.tick text,
+#tparallel.axis.IncomeGroup #tparallel.tick text {
+  opacity: 1;
+}
+
+#tparallel.axis:hover line,
+#tparallel.axis:hover path,
+#tparallel.axis.active line,
+#tparallel.axis.active path {
+  fill: none;
+  stroke: #222;
+  stroke-width: 1px;
+}
+
+#tparallel.axis:hover #tparallel.title {
+  font-weight: bold;
+}
+
+#tparallel.axis:hover #tparallel.tick text {
+  opacity: 1;
+}
+
+#tparallel.axis.active #tparallel.title {
+  font-weight: bold;
+}
+
+#tparallel.axis.active #tparallel.tick text {
+  opacity: 1;
+  font-weight: bold;
+}
+
+#tparallel.brush #tparallel.extent {
+  fill-opacity: .3;
+  stroke: #fff;
+  stroke-width: 1px;
+}
+
+pre {
+  width: 100%;
+  height: 300px;
+  margin: 6px 12px;
+  tab-size: 28;
+  font-size: 9px;
+  overflow: auto;
+}
